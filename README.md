@@ -13,3 +13,7 @@
 ##### So I'll try every time to reaching what i hope.
 #
 </br>
+### :point_right: What I Can Use ...
+<div align="center">
+  <img src="https://img.shields.io/badge/R-#276DC3?style=flat&logo=R&logoColor=white"/>
+</div>
