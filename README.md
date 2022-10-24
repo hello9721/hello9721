@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/R-#276DC3?style=flat&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
