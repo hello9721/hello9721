@@ -12,8 +12,13 @@
 ##### I hope working what i love. :smiling_face_with_three_hearts:</br>
 ##### So I'll try every time to reaching what i hope.
 #
-</br>
 
 ### :point_right: What I Can Use ...
 
-![R](https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white&style=flat)
+<div align = "center">
+  ![R](https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white&style=flat)
+  ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white&style=flat)
+  ![c#](https://img.shields.io/badge/-C%23-239120.svg?logo=C%23&logoColor=white&style=flat)
+  ![R](https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white&style=flat)
+  ![R](https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white&style=flat)
+</div>
