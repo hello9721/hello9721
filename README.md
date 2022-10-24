@@ -16,4 +16,4 @@
 
 ### :point_right: What I Can Use ...
 
-![Rust](https://img.shields.io/badge/R-black.svg?logo=R&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/#276DC3.svg?logo=R&logoColor=white&style=flat)
