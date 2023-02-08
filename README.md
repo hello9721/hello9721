@@ -29,7 +29,7 @@ So I'll try every time to reaching what i hope.
 ### :point_down: My BOJ stats :point_down:</br></br>
 
 #### Python :point_down:                    C# :point_down:
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello9721)](https://solved.ac/hello9721) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanya97)](https://solved.ac/hanya97)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello9721)](https://solved.ac/hello9721) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanya97)](https://solved.ac/profile/hanya97)
 
 </br>
 
