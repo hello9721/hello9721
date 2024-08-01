@@ -19,9 +19,28 @@ So I'll try every time to reaching what i hope.
 #
 
 ### 👇 What I Can Use 👇</br></br>
+<img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Django-092E20.svg?logo=Django&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+</br> 
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/SQLite-003B57.svg?logo=SQLite&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=Bootstrap&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />
+</br></br>
 
-  <img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Django-092E20.svg?logo=Django&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&logoColor=white&style=for-the-badge" /></br>
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/SQLite-003B57.svg?logo=SQLite&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=Bootstrap&logoColor=white&style=for-the-badge" /></br></br>
 
 ### 👇 My TIL Page 👇</br></br>
 <a href="https://childlike-continent-007.notion.site/TIL-Today-I-Learned-b0e24738ce5240f085f00451c05eaefc?pvs=4">HERE!!!</a></br></br>
