@@ -6,16 +6,10 @@
 
 #### Hi! there 👋 I'm Hana. I'm so glad you are here. :relaxed:
 
-I was dreaming about Front-end developer using web. </br>
-But now I'm learning how to analyze Bigdata using R </br>
-and how to develop software using C# and Python.
+I work on developing websites and apps. </br>
+I am interested in analyzing big data. </br>
+I also love learning new programming languages. :star_struck:
 
-I still love making website using HTML, CSS and JAVASCRIPT.</br>
-But I also like what i learn now. It so fun! :star_struck:
-
-Now I'm dreaming about me, be a software developer.</br>
-I hope working what i love. :smiling_face_with_three_hearts:</br>
-So I'll try every time to reaching what i hope.
 #
 
 ### 👇 What I Can Use 👇</br></br>
