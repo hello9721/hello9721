@@ -33,6 +33,10 @@ I also love learning new programming languages. :star_struck:
 <img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=Bootstrap&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />
+<img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/vite-646cff?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </br></br>
 
 
