@@ -44,7 +44,11 @@ I also love learning new programming languages. :star_struck:
 <a href="https://childlike-continent-007.notion.site/TIL-Today-I-Learned-b0e24738ce5240f085f00451c05eaefc?pvs=4">HERE!!!</a></br></br>
 
 ### 👇 My GitHub stats 👇</br></br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hello9721)](https://github.com/anuraghazra/github-readme-stats)</br></br>
+[![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=hello9721)](https://github.com/anuraghazra/github-readme-stats)</br></br>
+
+### 👇 My WakaTime 👇</br></br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 👇 My BOJ stats 👇</br></br>
 
