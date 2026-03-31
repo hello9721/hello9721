@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "36 10 * * *"
+    - cron: "41 10 * * *"
 
 jobs:
   update-readme:
@@ -14,4 +14,17 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+          SHOW_TOTAL: true
+
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+
+          COMMIT_MESSAGE: Updated waka-readme metrics
+          AUTHOR_NAME: Hana Lee
+          AUTHOR_EMAIL: hanya97@kakao.com
