@@ -48,6 +48,15 @@ I also love learning new programming languages. :star_struck:
 
 ### 👇 My WakaTime 👇</br></br>
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 March 2026 - To: 30 March 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### 👇 My BOJ stats 👇</br></br>
