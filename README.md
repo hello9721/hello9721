@@ -46,7 +46,7 @@ I also love learning new programming languages. :star_struck:
 ### 👇 My GitHub stats 👇</br></br>
 [![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=hello9721)](https://github.com/anuraghazra/github-readme-stats)</br></br>
 
-### 👇 My WakaTime 👇</br></br>
+### 👇 My WakaTime This Week 👇</br></br>
 [![wakatime](https://wakatime.com/badge/user/cebdb910-1f7c-4fba-845f-2fd2cf5b4236.svg)](https://wakatime.com/@cebdb910-1f7c-4fba-845f-2fd2cf5b4236)
 <!--START_SECTION:waka-->
 
