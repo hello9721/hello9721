@@ -51,19 +51,19 @@ I also love learning new programming languages. :star_struck:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 30 March 2026 - To: 06 April 2026
 
-Total Time: 14 hrs 27 mins
+Total Time: 19 hrs 15 mins
 
-TypeScript   9 hrs 1 min           ██████████████▒░░░░░░░░░░   57.86 %
-Bash         4 hrs 27 mins         ███████░░░░░░░░░░░░░░░░░░   28.54 %
-Other        1 hr 9 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Git Config   23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-JSON         16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-HTML         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-JavaScript   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-YAML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-CSS          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript   13 hrs 22 mins        ███████████████▓░░░░░░░░░   62.87 %
+Bash         4 hrs 34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+Other        1 hr 59 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Git Config   23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON         19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+CSS          18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+HTML         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JavaScript   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+YAML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
