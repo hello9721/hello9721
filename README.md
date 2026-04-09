@@ -15,7 +15,6 @@ I also love learning new programming languages. :star_struck:
 ### 👇 What I Can Use 👇</br></br>
 <img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white&style=for-the-badge" /> 
-</br> 
 <img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
@@ -30,16 +29,16 @@ I also love learning new programming languages. :star_struck:
 <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=Bootstrap&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </br> 
-<img src="https://img.shields.io/badge/Django-092E20.svg?logo=Django&logoColor=white&style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white&style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/SQLite-003B57.svg?logo=SQLite&logoColor=white&style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB&logoColor=white&style=for-the-badge" /> 
-</br> 
 <img src="https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&logoColor=white&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />
 <img src="https://img.shields.io/badge/vite-646cff?style=for-the-badge&logo=vite&logoColor=white" />
+</br> 
+<img src="https://img.shields.io/badge/Django-092E20.svg?logo=Django&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/SQLite-003B57.svg?logo=SQLite&logoColor=white&style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB&logoColor=white&style=for-the-badge" /> 
 </br></br>
 
 
