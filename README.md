@@ -4,11 +4,12 @@
 <div align = "center">
   
 
-#### Hi! there 👋 I'm Hana. I'm so glad you are here. :relaxed:
+#### Hi! there 👋 I'm Hana. Glad to see you here. 😊
 
-I work on developing websites and apps. </br>
-I am interested in analyzing big data. </br>
-I also love learning new programming languages. :star_struck:
+I am currently focused on building web services and Android applications. </br>
+Recently, I have been experimenting with AI-assisted development workflows. </br>
+My primary stack these days is React.js and Nest.js. </br>
+I am also getting more familiar with Tailwind CSS. ✨
 
 #
 
@@ -68,14 +69,3 @@ Git Config   0 secs                ░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### 👇 My BOJ stats 👇</br></br>
-
-#### Python 👇                    C# 👇
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello9721)](https://solved.ac/hello9721) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanya97)](https://solved.ac/profile/hanya97)
-
-</br>
-
-#### C 👇
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xium9721)](https://solved.ac/xium9721)
-
-</div>
