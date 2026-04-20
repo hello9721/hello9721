@@ -42,9 +42,12 @@ I am also getting more familiar with Tailwind CSS. ✨
 <img src="https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB&logoColor=white&style=for-the-badge" /> 
 </br></br>
 
-
-### 👇 My TIL Page 👇</br></br>
-<a href="https://childlike-continent-007.notion.site/TIL-Today-I-Learned-b0e24738ce5240f085f00451c05eaefc?pvs=4">HERE!!!</a></br></br>
+<p align="center">
+  <b>👇 My TIL Page 👇</b><br><br>
+  <a href="https://childlike-continent-007.notion.site/TIL-Today-I-Learned-b0e24738ce5240f085f00451c05eaefc?pvs=4">
+  <img src="https://img.shields.io/badge/Today%20I%20Learned-4A90E2?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+</p>
 
 ### 👇 My WakaTime 👇</br></br>
 [![wakatime](https://wakatime.com/badge/user/cebdb910-1f7c-4fba-845f-2fd2cf5b4236.svg)](https://wakatime.com/@cebdb910-1f7c-4fba-845f-2fd2cf5b4236)
