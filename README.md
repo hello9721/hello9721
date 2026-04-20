@@ -46,9 +46,6 @@ I am also getting more familiar with Tailwind CSS. ✨
 ### 👇 My TIL Page 👇</br></br>
 <a href="https://childlike-continent-007.notion.site/TIL-Today-I-Learned-b0e24738ce5240f085f00451c05eaefc?pvs=4">HERE!!!</a></br></br>
 
-### 👇 My GitHub stats 👇</br></br>
-[![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=hello9721)](https://github.com/anuraghazra/github-readme-stats)</br></br>
-
 ### 👇 My WakaTime 👇</br></br>
 [![wakatime](https://wakatime.com/badge/user/cebdb910-1f7c-4fba-845f-2fd2cf5b4236.svg)](https://wakatime.com/@cebdb910-1f7c-4fba-845f-2fd2cf5b4236)
 <!--START_SECTION:waka-->
