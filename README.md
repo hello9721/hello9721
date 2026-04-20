@@ -44,7 +44,7 @@ I am also getting more familiar with Tailwind CSS. ✨
 
 <p align="center">
   <b>👇 My TIL Page 👇</b><br><br>
-  <a href="https://childlike-continent-007.notion.site/TIL-Today-I-Learned-b0e24738ce5240f085f00451c05eaefc?pvs=4">
+  <a href="https://childlike-continent-007.notion.site/TIL-Today-I-Learned-b0e24738ce5240f085f00451c05eaefc?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/Today%20I%20Learned-4A90E2?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 </p>
