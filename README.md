@@ -54,17 +54,15 @@ I am also getting more familiar with Tailwind CSS. ✨
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-Total Time: 20 hrs 28 mins
+Total Time: 18 hrs 51 mins
 
-TypeScript   17 hrs 25 mins        ████████████████████▓░░░░   82.39 %
-Bash         2 hrs 19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Other        41 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-CSS          33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-SSH Config   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-JSON         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   15 hrs 39 mins        ████████████████████░░░░░   80.48 %
+Bash         2 hrs 12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+JSON         51 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Other        36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+SSH Config   6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
