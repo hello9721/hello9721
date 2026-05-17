@@ -54,16 +54,17 @@ I am also getting more familiar with Tailwind CSS. ✨
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2026 - To: 14 May 2026
+From: 09 May 2026 - To: 16 May 2026
 
-Total Time: 21 hrs 24 mins
+Total Time: 20 hrs 32 mins
 
-TypeScript   20 hrs 41 mins        ████████████████████████░   95.41 %
-Bash         36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Other        15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-JSON         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript   19 hrs 36 mins        ███████████████████████▓░   94.07 %
+Bash         48 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Other        17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JSON         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 CSS          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-HTML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+HTML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
