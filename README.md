@@ -54,13 +54,16 @@ I am also getting more familiar with Tailwind CSS. ✨
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2026 - To: 25 May 2026
+From: 19 May 2026 - To: 26 May 2026
 
-Total Time: 5 hrs 23 mins
+Total Time: 5 hrs 59 mins
 
-TypeScript   4 hrs 56 mins         ███████████████████████░░   91.72 %
-Bash         26 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   4 hrs 43 mins         ██████████████████░░░░░░░   71.57 %
+Bash         53 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Other        36 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+Kotlin       21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
