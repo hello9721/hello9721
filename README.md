@@ -54,16 +54,17 @@ I am also getting more familiar with Tailwind CSS. ✨
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2026 - To: 04 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 18 hrs 59 mins
+Total Time: 17 hrs 26 mins
 
-TypeScript   18 hrs 9 mins         ███████████████████████▓░   94.24 %
-Bash         42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Other        16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-HTML         5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TypeScript   15 hrs 54 mins        ██████████████████████▒░░   89.79 %
+Bash         1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+CSS          24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Other        16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+HTML         5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
