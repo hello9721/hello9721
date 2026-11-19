@@ -54,20 +54,20 @@ I am also getting more familiar with Tailwind CSS. ✨
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2026 - To: 17 November 2026
+From: 11 November 2026 - To: 18 November 2026
 
-Total Time: 17 hrs 52 mins
+Total Time: 20 hrs 49 mins
 
-TypeScript   16 hrs 37 mins        ███████████████████████▒░   93.03 %
-JavaScript   44 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Markdown     11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Text         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-SQL          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-CSS          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-YAML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript    18 hrs 43 mins        ██████████████████████▒░░   89.91 %
+JavaScript    1 hr 7 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+CSS           17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Text          15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Markdown      11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+YAML          6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+SQL           3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Git           1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Bash          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
